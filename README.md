@@ -4,8 +4,6 @@ A modern, responsive waitlist landing page built with React, TypeScript, and Sup
 
 🚀 **Quick Start**: [Customize this template in Bolt](https://bolt.new/github/donvito/bolt-supabase-waitlist)
 
-![Waitlist Preview](https://images.unsplash.com/photo-1600267204091-5c1ab8b10c02?auto=format&fit=crop&q=80&w=2000)
-
 ## Features
 
 - 🎨 Modern UI with Tailwind CSS
